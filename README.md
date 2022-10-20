@@ -1,4 +1,4 @@
-## Hi there, I'm Juliett Garcia 👋
+## Hi there, sou Juliett Garcia estudante de Desenvolvimento Web (FullStack Developer) 👋
 
 <div align="center">
   <a href="https://github.com/juliettgarcia">
